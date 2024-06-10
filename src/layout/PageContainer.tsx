@@ -7,5 +7,6 @@ type PageContainerProps = {
 const PageContainer = ({ children }: PageContainerProps) => {
   return <div style={{ margin: "50px 50px 0" }}>{children}</div>;
 };
+const car=0;
 
 export default PageContainer;
